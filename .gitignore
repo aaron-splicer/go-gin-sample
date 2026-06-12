@@ -1,0 +1,14 @@
+# Binaries
+/app
+/bin/
+*.exe
+*.dll
+*.so
+*.dylib
+# Test + coverage
+*.test
+*.out
+# Editor
+.idea/
+.vscode/
+.DS_Store
